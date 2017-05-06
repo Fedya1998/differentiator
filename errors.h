@@ -1,0 +1,7 @@
+const int ERROR_EMPTY_LINE = 1;
+const int ERROR_WRONG_PARENTHESES = 2;
+const int ERROR_UNDEFINED_FUNCTION = 3;
+const int ERROR_BAD_TREE = 4;
+const int ERROR_WRONG_TYPE = 5;
+const int ERROR_UNDEFINED_VALUE = 6;
+const int ERROR_UNDEFINED_TYPE = 7;
